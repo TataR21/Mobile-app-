@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Project</string>
+
+    <string name="pacjent_button">Panel pacjenta</string>
+    <string name="lekarz_button">Panel lekarza</string>
+
+    <string name="button_podaj_swoje_dane">Podaj swoje dane</string>
+    <string name="button_dane_dla_pacjenta">Podaj dane dla pacjenta</string>
+
+    <string name="button_typ_ćwiczenia">Wybierz typ ćwiczenia</string>
+    <string name="button_liczba_cykli">Ustaw liczbę cykli</string>
+    <string name="button_liczba_powtórzeń">Ustaw liczbę powtórzeń</string>
+    <string name="button_zakres_ruchu">Ustaw zakres ruchu</string>
+    <string name="button_zapisz">Zapisz</string>
+
+    <string name="button_rozpocznij_ćwiczenie">Rozpocznij ćwiczenie</string>
+    <string name="button_statystyki">Zobacz statystyki</string>
+    <string name="button_kontakt">Skontaktuj się z lekarzem</string>
+
+    <string name="button_start">Start</string>
+
+    <string name="button_menu">Menu główne</string>
+    <string name="button_zakończ">Zakończ</string>
+
+    <string name="button_stwórz_kontakt">Stwórz Kontakt</string>
+
+    <string name="text_dane">Imie i nazwisko</string>
+    <string name="text_numer">Numer telefonu</string>
+
+    <string name="text_kontakt">Podaj swoje dane i zatwierdź aby stworzyć kontakt </string>
+
+    <string name="button_zadzwon">Zadzwoń do swojego lekarza</string>
+
+    <string name="text_wybor">Wybierz typ ćwiczenia</string>
+
+    <string name="text_liczba_cykli">Ustaw liczbę cykli</string>
+    <string name="text_liczba_powtorzen">Ustaw liczbę powtórzeń</string>
+    <string name="text_zakres">Ustaw minimalny i maksymalny zakres ruchu</string>
+    <string name="text_ilosc_powtorzen">Twoja aktualna ilość powtórzeń</string>
+    <string name="text_koniec">Koniec ćwiczenia</string>
+
+    <string-array name="planets_array">
+        <item>Unoszenie nogi siedząc na krześle</item>
+        <item>Podciąganie stopy do pośladków w pozycji siedzącej</item>
+    </string-array>
+</resources>
+
